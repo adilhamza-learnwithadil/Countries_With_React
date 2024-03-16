@@ -1,0 +1,15 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+}
+
+.flex{
+    display: flex;
+    gap: 20px;
+}
+
+li{
+    list-style: none;
+    font-weight: 700;
+}

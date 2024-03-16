@@ -1,6 +1,20 @@
 .coun{
     border: 3px solid #e4e3e3;
     border-radius: 20px;
-    padding: 10px;
+    padding-top: 20px;
     margin-bottom: 30px;
+    background-color: #f7f7f7;
+    max-width: 400px;
+}
+
+.visited_btn{
+    background-color: rgb(28, 167, 40);
+}
+.visited_coun{
+    background-color: rgb(224, 237, 255);
+    border-color: rgb(128, 198, 255);
+}
+
+.m{
+    margin-left: 10px;
 }
